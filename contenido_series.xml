@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SerieMultimedia>
+<Series>
+  <Id>1</Id>
+  <Titulo>Serie1</Titulo>
+  <Año>2000</Año>
+  <EdadRecomendada>12</EdadRecomendada>
+  <Temporadas>2</Temporadas>
+  <NumeroCapitulos>16</NumeroCapitulos>
+  <DuracionCapitulo>45</DuracionCapitulo>
+</Series>
+<serie><id>1</id><titulo>Hit</titulo><anio_estreno>1995</anio_estreno><edad_recomendada>7</edad_recomendada><generos><genero>animacion</genero></generos><num_temporadas>2</num_temporadas><num_capitulos>51</num_capitulos></serie><serie><id>2</id><titulo>El rey leon</titulo><anio_estreno>1995</anio_estreno><edad_recomendada>7</edad_recomendada><generos><genero>animacion</genero></generos><num_temporadas>2</num_temporadas><num_capitulos>52</num_capitulos></serie><serie><id>3</id><titulo>El rey leon 2</titulo><anio_estreno>1995</anio_estreno><edad_recomendada>7</edad_recomendada><generos><genero>animacion</genero></generos><num_temporadas>2</num_temporadas><num_capitulos>52</num_capitulos></serie><serie><id>4</id><titulo>Los simpsons</titulo><anio_estreno>1985</anio_estreno><edad_recomendada>10</edad_recomendada><generos><genero>animacion</genero></generos><num_temporadas>20</num_temporadas><num_capitulos>1020</num_capitulos></serie><serie><id>5</id><titulo>Juego de tronos</titulo><anio_estreno>2011</anio_estreno><edad_recomendada>18</edad_recomendada><generos><genero>fantasia</genero></generos><num_temporadas>8</num_temporadas><num_capitulos>105</num_capitulos></serie><serie><id>6</id><titulo>Breaking bad</titulo><anio_estreno>2008</anio_estreno><edad_recomendada>18</edad_recomendada><generos><genero>aventura</genero></generos><num_temporadas>5</num_temporadas><num_capitulos>80</num_capitulos></serie><serie><id>7</id><titulo>The mandalorian</titulo><anio_estreno>2019</anio_estreno><edad_recomendada>12</edad_recomendada><generos><genero>ciencia ficcion</genero></generos><num_temporadas>5</num_temporadas><num_capitulos>60</num_capitulos></serie></SerieMultimedia>

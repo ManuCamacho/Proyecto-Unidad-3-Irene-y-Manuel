@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+  
+  
+  
+  
+  
+<pelicula><id>1</id><titulo>El rey leon</titulo><aniopelicula>1994</aniopelicula><edad_recomendada>7</edad_recomendada><duracion>120</duracion><generos><genero>animacion</genero></generos></pelicula><pelicula><id>2</id><titulo>Star wars I</titulo><aniopelicula>1999</aniopelicula><edad_recomendada>12</edad_recomendada><duracion>180</duracion><generos><genero>ficcion</genero></generos></pelicula><pelicula><id>4</id><titulo>Toy Story</titulo><aniopelicula>1995</aniopelicula><edad_recomendada>7</edad_recomendada><duracion>98</duracion><generos><genero>animacion</genero></generos></pelicula><pelicula><id>5</id><titulo>Titanic</titulo><aniopelicula>1997</aniopelicula><edad_recomendada>16</edad_recomendada><duracion>190</duracion><generos><genero>drama</genero></generos></pelicula><pelicula><id>6</id><titulo>Popeye 2</titulo><aniopelicula>1929</aniopelicula><edad_recomendada>7</edad_recomendada><duracion>20</duracion><generos><genero>animacion</genero></generos></pelicula></catalogo>

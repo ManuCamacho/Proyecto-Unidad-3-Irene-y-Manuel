@@ -1,0 +1,19 @@
+#peliculas-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: #f7f7f7;
+}
+
+.boton {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    margin: 10px;
+    transition: background-color 0.3s ease;
+}
